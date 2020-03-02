@@ -3,7 +3,9 @@
   "env": {
     "jest": true
   },
-  "overrides": [{
-    "files": ["src/**/*.{ts,tsx}"]
-  }]
+  "overrides": [
+    {
+      "files": ["src/**/*.{ts,tsx}"]
+    }
+  ]
 }
